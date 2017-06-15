@@ -1,5 +1,5 @@
 // Set the margins
-var margin = {top: 20, right: 100, bottom: 80, left: 100},
+var margin = {top: 20, right: 100, bottom: 55, left: 100},
   width = 800 - margin.left - margin.right,
   height = 400 - margin.top;
 

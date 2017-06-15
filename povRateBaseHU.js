@@ -87,7 +87,7 @@ d3.csv("diffPovRates.csv", function(error, data) {
         .attr("x", 0 - (height / 2))
         .attr("dy", "1em")
         .style("text-anchor", "middle")
-        .text("Poverty Rate")
+        .text("Gap to Hungary")
         .attr("class", "axis");
   // Add a label to the x axis
   svg.append("text")
